@@ -1,0 +1,6 @@
+use PRINTF 
+add the instruction "enter positive numbers 0 or -ve number will stop"
+SCANF
+use WHILE to write the argument
+use PRINTF to complete
+
