@@ -1,0 +1,3 @@
+user input of natural number n
+function squares number <= n
+RETURN SUM
