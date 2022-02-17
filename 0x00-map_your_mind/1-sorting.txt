@@ -1,0 +1,4 @@
+
+User input three numbers INT
+program sorts the numbers in ascending or descending order SORT
+
